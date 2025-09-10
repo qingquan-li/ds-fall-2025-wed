@@ -6,7 +6,7 @@
 0. Annoucements.
 	* Read weekly annoucments message
 0. Review last weeks HW.
-1. [Team Matchmaking Slides](https://docs.google.com/presentation/d/14byZY6zfrfDIu6W0GDIfgQjpunf7lXoefwVolWv8WVs/edit?slide=id.g2fe36577cca_0_931#slide=id.g2fe36577cca_0_931)
+1. [Team Matchmaking Slides](https://docs.google.com/presentation/d/1E0vG_1QVvn4Ahg1rIGoh4DSZGLprPz2MdKIT0xUUyZg/edit)
 0. Updating your fork with this weeks files. 
 0. [Google slide lecture.](https://docs.google.com/presentation/d/1ppQ9qWHeZgN7Zxxah15NwscZIEWsuoW2JEbyul3cDmM/edit?slide=id.g343889e08ee_0_1271#slide=id.g343889e08ee_0_1271)
 0. Break
